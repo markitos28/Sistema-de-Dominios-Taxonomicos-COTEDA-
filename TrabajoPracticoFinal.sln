@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNDT", "SNDT\SNDT.csproj", "{FF8E8AC7-5F51-415B-ADCE-24CE3C978D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consola_Debugg", "ConsoleApp1\Consola_Debugg.csproj", "{F60F587B-F328-465E-A985-DFC59832A0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8E8AC7-5F51-415B-ADCE-24CE3C978D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8E8AC7-5F51-415B-ADCE-24CE3C978D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8E8AC7-5F51-415B-ADCE-24CE3C978D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8E8AC7-5F51-415B-ADCE-24CE3C978D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F60F587B-F328-465E-A985-DFC59832A0E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60F587B-F328-465E-A985-DFC59832A0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60F587B-F328-465E-A985-DFC59832A0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60F587B-F328-465E-A985-DFC59832A0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C843516-42D3-4626-8DCA-D4E27526CF9B}
+	EndGlobalSection
+EndGlobal
